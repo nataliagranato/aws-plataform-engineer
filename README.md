@@ -13,6 +13,7 @@ Este projeto tem como objetivo demonstrar práticas de engenharia de plataforma 
 - **tfsec**: Scanner de segurança para código Terraform/OpenTofu.
 - **Checkov**: Scanner de segurança para infraestrutura como código.
 - **Docker**: Plataforma para criação e execução de containers.
+- **Golang**: Linguagem de programação utilizada para desenvolvimento de aplicações e automações.
 
 ## Como usar
 
