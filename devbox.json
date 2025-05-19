@@ -1,8 +1,13 @@
 {
     "$schema": "https://raw.githubusercontent.com/jetify-com/devbox/0.14.2/.schema/devbox.schema.json",
     "packages": [
-        "opentofu@latest",
-        "go@latest"
+        "go@latest",
+        "terraform@latest",
+        "awscli@latest",
+        "terraform-docs@latest",
+        "tfsec@latest",
+        "checkov@latest",
+        "docker@latest"
     ],
     "shell": {
         "init_hook": [
@@ -10,7 +15,7 @@
         ],
         "scripts": {
             "test": [
-                "echo \"Error: no test specified\" && exit 1"
+                "echo \"Error: no test especificado\" && exit 1"
             ]
         }
     }

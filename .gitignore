@@ -1,5 +1,10 @@
 .qodo
-
+.devbox.lock
+# .devbox directory
+.devbox
+# This is a template for a Go .gitignore file. It is based on the official Go .gitignore file
+# from GitHub, with some modifications to suit the needs of a typical Go project.
+# For more information, see:
 # If you prefer the allow list template instead of the deny list, see community template:
 # https://github.com/github/gitignore/blob/main/community/Golang/Go.AllowList.gitignore
 #
