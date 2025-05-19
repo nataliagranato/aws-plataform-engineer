@@ -36,6 +36,7 @@ export AWS_ACCESS_KEY_ID=SEU_ACCESS_KEY
 export AWS_SECRET_ACCESS_KEY=SEU_SECRET_KEY
 export AWS_DEFAULT_REGION=us-east-1
 
+```
 
 ## Contribuição
 
