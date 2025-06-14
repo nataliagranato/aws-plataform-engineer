@@ -44,4 +44,4 @@ Contribuições são bem-vindas! Por favor, leia o arquivo CONTRIBUTING.md para 
 
 ## Licença
 
-Distribuído sob a Licença GPL. Veja o arquivo LICENSE para mais informações.
+Distribuído sob a Licença GNU GENERAL PUBLIC LICENSE. Veja o arquivo LICENSE para mais informações.
